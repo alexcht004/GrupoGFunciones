@@ -7,7 +7,6 @@ import static org.junit.jupiter.api.Assertions.*;
     import org.junit.jupiter.api.Test;
 
     public class TestFuncion2Test {
-
         static Funcion2 funcion2 = null;
         static int contpru = 0;
 
@@ -36,7 +35,7 @@ import static org.junit.jupiter.api.Assertions.*;
         }
        
 
-            //José Antonio Reina Montes
+            //JosÃ© Antonio Reina Montes
         @DisplayName("Test de Caja Negra Con Un Valor Nulo")
         @Test
         void test1() {
